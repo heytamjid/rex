@@ -1,0 +1,9 @@
+(.env) dormitory@pop-os:~/Desktop/rex$ python --version
+Python 3.10.12
+(.env) dormitory@pop-os:~/Desktop/rex$ python3 --version
+Python 3.10.12
+(.env) dormitory@pop-os:~/Desktop/rex$ pip --version
+pip 25.1 from /home/dormitory/Desktop/rex/.env/lib/python3.10/site-packages/pip (python 3.10)
+(.env) dormitory@pop-os:~/Desktop/rex$ pip3 --version
+pip 25.1 from /home/dormitory/Desktop/rex/.env/lib/python3.10/site-packages/pip (python 3.10)
+(.env) dormitory@pop-os:~/Desktop/rex$ 
