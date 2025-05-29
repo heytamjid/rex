@@ -5,7 +5,7 @@ pip 25.1 from /home/dormitory/Desktop/rex/.env/lib/python3.10/site-packages/pip 
 
 
 
-(venv) C:\Users\USER\Desktop\rex>python --version
+(venv) C:\Users\USER\Desktop\rex>python --version        
 Python 3.11.3
 
 (venv) C:\Users\USER\Desktop\rex>pip --version
